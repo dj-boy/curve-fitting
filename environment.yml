@@ -1,0 +1,14 @@
+name: coursework1
+
+channels:
+  - QuantStack
+  - conda-forge
+
+dependencies:
+  - cmake
+  - cling
+  - xeus-cling
+  - notebook
+  - numpy
+  - matplotlib
+  - python=3.7
