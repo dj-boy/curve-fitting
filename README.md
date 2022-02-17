@@ -1,29 +1,3 @@
-<center><img src="nu_logo.png" alt="Drawing" style="width: 200px;"/></center>
-
-
-<br>
-<br>
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mostafa-k-m/Scientific-Computing-Courswork-1/HEAD)
-
-<strong style="color:red"> Please click the binder badge above to run this notebook live </strong>. Also please check our <a href="https://github.com/mostafa-k-m/Scientific-Computing-Courswork-1">github repo</a> for this project. All the code in this notebook xan be compiled and ran from the `main.cpp` file in the repo. However, for the purpose of this report we have chosen to use a jupyter notebook.
-
-
-<br>
-<br>
-
-<center> Prepared by: </center>
-
-| Name      | ID |
-| ----------- | ----------- |
-| Maha Abdel Aziz Farid | 1920060 |
-| Manar Mohamed Rashad      | 18270084       |
-| Mostafa Kamal Mostafa Kamel   | 1920045        |
-| Wael Ismail Aboulezz | 202001595 |
-
-
-\pagebreak
-
 # Documentation
 
 We used OOP paradigm to make a library which is imported below using `#include"Coursework1/Coursework1lib.h"`.
